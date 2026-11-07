@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Build output
+dist/
+build/
+*.zip
+*.crx
+
+# Node (if used for build tools)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Logs
+*.log
